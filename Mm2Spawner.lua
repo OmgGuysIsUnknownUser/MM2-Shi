@@ -1,5 +1,5 @@
 -- Op Spawner
--- btw guys this does NOT Steal Your Godlys i did not put any discord shit into it is fully cleaned if your godlys got stolen dont fucking blame me just i did not put shit on my script
+-- btw guys this does NOT Steal Your Godlys i did not put any discord shit into it is fully cleaned if your godlys got stolen dont fucking blame me you ran a another stealer
 -- fuck these fuckass fake overdrive h stealers
 -- btw guys the spawner is just client you cannot equip the guns on the actual game
 -- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
